@@ -2,7 +2,7 @@
 
 Title: Evaluating the pathogenicity, stability, and stereochemical effects of variants of unknown significance in TREM2 using orthogonal structural analyses
 
-Authors: Joshua Pillai, Kijung Sung, Zhixia Shi, Chengbiao Wu.
+Authors: Joshua Pillai, Kijung Sung, Linda Shi, Chengbiao Wu.
 
 Institutions:
 
